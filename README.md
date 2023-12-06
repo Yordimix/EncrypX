@@ -1,7 +1,7 @@
 # EncrypX
 A simple Encrypter word in C#
 
-#Rules
+# Rules
 A = Z
 B = Y
 C = X
